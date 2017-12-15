@@ -4,7 +4,7 @@ import java.applet.*;
 
 
 
-public class Opdracht2 extends Applet{
+public class Opdracht2_Hs6 extends Applet{
 
     int seconden, minuut, uur, dag, week, jaar;
 

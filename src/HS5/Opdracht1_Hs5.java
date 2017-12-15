@@ -2,7 +2,7 @@ import java.applet.Applet;
 import java.awt.Color;
 import java.awt.Graphics;
 
-class Opdracht1 extends Applet {
+class Opdracht1_Hs5 extends Applet {
     Color fill;
     Color draw;
     Color BG;

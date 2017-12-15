@@ -4,7 +4,7 @@ import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Opdracht1 extends Applet {
+public class Opdracht1_Hs8 extends Applet {
     Button okeknop;
     Button resetknop;
     TextField tekstvak;

@@ -4,7 +4,7 @@ import java.awt.Graphics;
 
 
 
-public class Opdracht1 extends Applet {
+public class Opdracht1_Hs6 extends Applet {
     int Winst;
     int Jan;
     int Ali;

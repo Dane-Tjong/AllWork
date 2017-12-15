@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Opdracht2 extends Applet{
+public class Opdracht2_Hs8 extends Applet{
     int man,vrouw,pman,pvrouw, totaal;
     Button knopMan,knopVrouw,knopPMan,knopPVrouw;
 

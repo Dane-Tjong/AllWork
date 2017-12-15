@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.applet.*;
 
-public class Opdracht2 extends Applet {
+public class Opdracht2_Hs5 extends Applet {
     //kleuren
     Color achtergrondKleur;
     Color fill;

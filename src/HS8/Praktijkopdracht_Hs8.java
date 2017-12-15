@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-public class Praktijkopdracht extends Applet{
+public class Praktijkopdracht_Hs8 extends Applet{
     TextField calc1,calc2;
     double cijfer1,cijfer2;
     Button keer,gedeeld,plus,min;

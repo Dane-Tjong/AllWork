@@ -4,7 +4,7 @@ import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.*;
 
-public class Opdracht3 extends Applet{
+public class Opdracht3_Hs8 extends Applet{
     TextField tekstvak;
     Label label;
     double prijs;
